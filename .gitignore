@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+data/
+*.csv
+*.xlsx
+*.zip
+*.h5
+*.keras
+cleaned_*.csv
+task5_distributions.png
